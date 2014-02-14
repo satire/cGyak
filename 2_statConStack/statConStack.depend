@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1392104768 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/statConStack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"statConStack.h"
+
+1392104332 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/statConStack/statConStack.c
+	<stdio.h>
+	"statConStack.h"
+
+1392104306 /media/goodSTUFF/Documents/[PROG]/[C - C++]/statConStack/statConStack.h
+	<stdbool.h>
+
+1392109494 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/2_statConStack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"statConStack.h"
+
+1392104306 /media/goodSTUFF/Documents/[PROG]/[C - C++]/2_statConStack/statConStack.h
+	<stdbool.h>
+
+1392109282 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/2_statConStack/statConStack.c
+	<stdio.h>
+	"statConStack.h"
+

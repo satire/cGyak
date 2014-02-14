@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1392366612 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/1_statConQueue/main.c
+	<stdio.h>
+	<stdlib.h>
+	"statConQueue.h"
+
+1392114075 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/1_statConQueue/statConQueue.c
+	<stdio.h>
+	"statConQueue.h"
+
+1392113481 /media/goodSTUFF/Documents/[PROG]/[C - C++]/1_statConQueue/statConQueue.h
+	<stdbool.h>
+

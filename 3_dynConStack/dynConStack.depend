@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1392050210 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/dynConStack/dynConStack.c
+	<stdio.h>
+	<stdlib.h>
+	"dynConStack.h"
+
+1392037216 /media/goodSTUFF/Documents/[PROG]/[C - C++]/dynConStack/dynConStack.h
+	<stdbool.h>
+
+1392037189 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/dynConStack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"dynConStack.h"
+
+1392037189 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/3_dynConStack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"dynConStack.h"
+
+1392037216 /media/goodSTUFF/Documents/[PROG]/[C - C++]/3_dynConStack/dynConStack.h
+	<stdbool.h>
+
+1392152137 source:/media/goodSTUFF/Documents/[PROG]/[C - C++]/3_dynConStack/dynConStack.c
+	<stdio.h>
+	<stdlib.h>
+	"dynConStack.h"
+
